@@ -8,7 +8,7 @@
 
 ## Highlighting Features -
 - Country wise critical data
-- Added Dark mode toggle 
+- Added Dark mode toggle
 - Realtime search based on Latest Api 
 - pull to refresh Added (Date updates every 24hrs)
 - pie chart Added view added
@@ -17,7 +17,7 @@
 - Donation ₹ section
 - Myth Buster section
 - User can search for specific country data and also get most affected countries with latest stats
-## Download apk-
+### Download apk-
 - https://www.shorturl.at/dqY38
 - Api- https://corona.lmao.ninja/v2/all
 
